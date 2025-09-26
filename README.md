@@ -1,6 +1,6 @@
 <h3 align="center">Angle</h3>
 
-- 📫 How to reach me **u can't**
+- ☘︎ ݁ How to reach me ?  [**u can't**]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
