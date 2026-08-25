@@ -1,4 +1,6 @@
-<h3 align="center">Angle</h3>
+<a href="aizenbackground.png">
+  <img src="https://cdn.discordapp.com/attachments/1540931121620189195/1541872788091052042/aizenbannerfullstackdeveloper.png?ex=6a8f2c6f&is=6a8ddaef&hm=d62215504bc40748016b30a1ca29c46340603aff35b973eb2a26689665e6593b&animated=true" alt="Angle">
+</a>
 
 - ☘︎ ݁ How to reach me ?  [**u can't**]
 
