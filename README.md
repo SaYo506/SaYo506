@@ -1,5 +1,5 @@
 <a href="aizenbackground.png">
-  <img src="https://cdn.discordapp.com/attachments/1540931121620189195/1541872788091052042/aizenbannerfullstackdeveloper.png?ex=6a8f2c6f&is=6a8ddaef&hm=d62215504bc40748016b30a1ca29c46340603aff35b973eb2a26689665e6593b&animated=true" alt="Angle">
+  <img src="https://cdn.discordapp.com/attachments/1471789558554431617/1558377055622664243/342963997458636800-banner.jpg?ex=6acb373b&is=6ac9e5bb&hm=c9e57018907de311eeae90fcedeecc7802f285d8abf7b234a5ff8083fd9baeaf&animated=true" alt="Angle">
 </a>
 
 - ☘︎ ݁ How to reach me ?  [**u can't**]
